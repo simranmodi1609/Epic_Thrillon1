@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#1911AA</color>
+    <color name="colorPrimaryDark">#1911AA</color>
+    <color name="colorAccent">#ffffff</color>
+    <color name="viewBg">#f1f5f8</color>
+    <color name="album_title">#ffffff</color>
+    <color name="appColor">#1911AA</color>
+    <color name="duskYellow">#dfc97a</color>
+    <color name="lightGrey">#b6b4ac</color>
+
+    <color name="btn_pressed" >#ff0000</color>
+    <color name="btn_released" >#ffffff</color>
+
+    <color name="cardview_dark_background">#FF424242</color>
+    <color name="cardview_light_background">#FFFFFFFF</color>
+    <color name="cardview_shadow_end_color">#03000000</color>
+    <color name="cardview_shadow_start_color">#37000000</color>
+</resources>
